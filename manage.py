@@ -1,4 +1,4 @@
-from flask_script import Manager,Server
+from flask_script import Manager
 from flask_migrate import Migrate,MigrateCommand
 
 from app.models import Orders, Pizza, Roles, Size, Toppings, User

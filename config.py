@@ -1,6 +1,3 @@
-from flask import config
-
-
 class Config:
     """This defines the factors that are same for the whole application
     """
